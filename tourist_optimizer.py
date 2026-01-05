@@ -7,8 +7,7 @@ class TouristOptimizer:
         self.root = root
         self.root.title("Tourist Travel Optimizer")
         self.root.geometry("800x600")
-        
-        # Sample tourist attractions data
+                
         
         self.attractions = [
             {"name": "Taj Mahal", "cost": 15, "time": 4, "rating": 9.8},
